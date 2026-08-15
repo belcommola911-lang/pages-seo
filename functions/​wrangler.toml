@@ -1,0 +1,5 @@
+name = "pages-seo"
+compatibility_date = "2026-08-15"
+
+[pages_build_output_dir]
+directory = "public"
